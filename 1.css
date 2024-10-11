@@ -276,7 +276,13 @@ a:hover {
 
 
     /* ###############PC icons hidding######################*/ 
-    
+    .logopos{
+        display: none;
+        position:absolute;
+        top: -2vh;
+        left: 60vw;
+        width: 0px;
+    }
     .instapos{
         display: none;
         position: absolute;

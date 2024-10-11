@@ -244,18 +244,18 @@ a:hover {
     }
     
     
-      .contact{
+        .contact{
         position:absolute;
-        top: 7vh;
-        left: 64vw;
+        top: 12vh;
+        left:30vw;
         font-size: x-large;
         
     }
     
     .projects{
         position:absolute;
-        top: 11vh;
-        left: 64vw;
+        top: 12vh;
+        left:4vw;
         font-size: x-large;
         
     }

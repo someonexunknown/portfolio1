@@ -26,8 +26,8 @@ a:active {
 
 
 .centerleft {
-    font-family: "Poppins", sans-serif;
-    font-weight: 800;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 500;
     position: absolute;
     top: 300px;
     left: 250px;
@@ -204,8 +204,8 @@ a:hover {
 
 
     .centerleft {
-        font-family: "Poppins", sans-serif;
-        font-weight: 800;
+        font-family: "DM Sans", sans-serif;
+    font-weight: 500;
         text-align:left;
         position: absolute;
         top: 20vh;

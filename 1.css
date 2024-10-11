@@ -167,12 +167,12 @@ a:hover {
     .centerleft {
         font-family: "Poppins", sans-serif;
         font-weight: 800;
-        text-align:center;
+        text-align:left;
         position: absolute;
         top: 20vh;
-        left: 5vw;
+        left: 8vw;
         font-size: 20px;
-        width: 400px;
+        width: 350px;
         color: white;
         
         
@@ -193,9 +193,9 @@ a:hover {
     .posi-photo{
 
         position:absolute;
-        left:7vw;
+        left:3vw;
         top: 35vh;
-        width: 30px;
+        
         color: white;
         
         
@@ -204,15 +204,15 @@ a:hover {
     .logopos{
         position:absolute;
         top: -2vh;
-        left: 65vw;
-        
+        left: 60vw;
+        width: 0px;
     }
     
     
       .contact{
         position:absolute;
         top: 7vh;
-        left: 70vw;
+        left: 64vw;
         font-size: x-large;
         
     }
@@ -220,7 +220,7 @@ a:hover {
     .projects{
         position:absolute;
         top: 11vh;
-        left: 70vw;
+        left: 64vw;
         font-size: x-large;
         
     }

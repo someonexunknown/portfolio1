@@ -149,7 +149,33 @@ a:hover {
     bottom: 180px;
     left:610px ;
 }
-
+@media (min-width:480px){
+    .instapos1{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:400px ;
+    }
+    .twipos1{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:550px ;
+    }
+    
+    .lnpos1{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:700px ;
+    }
+    .whpos1{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:850px ;
+    }
+}
 @media(max-width:480px) {
     .top{
         font-family: "DM Sans", sans-serif;
@@ -183,8 +209,7 @@ a:hover {
         top: 2.5vh;
         left: 5vw;
         font-size: 20px;
-        color: white;
-        font-family: "Bowlby One", sans-serif;
+
         font-weight: 400;
         font-style: italic;
       
@@ -224,4 +249,71 @@ a:hover {
         font-size: x-large;
         
     }
+
+
+    .contacth{
+        position: absolute;
+        top:6vh;
+        left:14vw;
+        font-family: "Bowlby One", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 60px;
+    } 
+    
+
+
+
+    /* ###############PC icons hidding######################*/ 
+    
+    .instapos{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:400px ;
+    }
+    .twipos{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:550px ;
+    }
+    
+    .lnpos{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:700px ;
+    }
+    .whpos{
+        display: none;
+        position: absolute;
+        bottom: 300px;
+        left:850px ;
+    }
+    
+    /* ###############mobile icons######################*/ 
+    .instapos1{
+        position: absolute;
+        top: 20vh;
+        left: 19vh ;
+    }
+    .twipos1{
+        position: absolute;
+        top: 40vh;
+        left:19vh ;
+    }
+    
+    .lnpos1{
+        position: absolute;
+        top: 60vh;
+        left:19vh ;
+    }
+    .whpos1{
+        position: absolute;
+        top: 80vh;
+        left:19vh ;
+    }
 }
+

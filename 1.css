@@ -72,6 +72,9 @@ a:hover {
     color:#ff0051;
   }
 
+  a{
+    color:#ffffff;
+  }
 
   .contact{
     position:absolute;
